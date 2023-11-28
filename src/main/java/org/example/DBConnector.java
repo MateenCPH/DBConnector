@@ -3,6 +3,7 @@ package org.example;
 import java.sql.*;
 
 public class DBConnector {
+    //mysql:mysql-connector-java:RELEASE
 
     static final String DB_URL = "jdbc:mysql://localhost/world";
     static final String USER = "root";
